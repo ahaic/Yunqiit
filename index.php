@@ -5,7 +5,7 @@
 <div class="co-head co-head-bg-img-front-door container-fluid">
   <header class="co-head-content">
     <div class="inner">
-        <h1 class="nix-top-margin h1-responsive text-center">Welcome to Yunqi Networks.<br>Focus on the  <br class="hidden-xs hidden-ph hidden-pt">Internet solutions</h1>
+        <h1 class="nix-top-margin h1-responsive text-center"><?php echo of_get_option( 'example_textarea', 'no entry' ); ?></h1>
 <p class="text-center"><br><a href="approach.html" class="btn btn-info-inv btn-block-xs btn-lg btn-280w-sm" title="Approach">CREATE WITH US</a></p>    </div>
   </header>
 </div>
@@ -21,7 +21,7 @@
 
       
   <div class="coplex-services text-center">
-  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive">What We Do</h2>
+  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive"> <?php echo of_get_option( 'example_text_mini', 'no entry' ); ?></h2>
   <div class="row fw-body">
     <div class="col-xs-6 col-sm-3">
       <a class="coplex-services-link" href="services/product-design.html" title="Product UX &amp; Design">
@@ -135,11 +135,11 @@
 <section id="block-block-12" class="block block-block clearfix">
 
       
-  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive text-center">Coders. Designers. People.</h2>
+  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive text-center"><?php echo of_get_option( 'example_text_mini2', 'no entry' ); ?></h2>
 <div class="co-team co-head co-head-bg-img-bike fw-body">
   <header class="co-head-content">
     <div class="inner">
-      <h2 class="h1 h1-responsive nix-top-margin text-center">To co-create, you need great people.<br>We can provide quality service.</h2>
+      <h2 class="h1 h1-responsive nix-top-margin text-center"><?php echo of_get_option( 'example_textarea2', 'no entry' ); ?></h2>
       <p class="text-center">
         <br>
         <a href="team.html" class="btn btn-info-inv btn-block-xs btn-lg" title="Team">Meet The Team</a>
@@ -157,7 +157,7 @@
   <div class="view view-our-work-front view-id-our_work_front view-display-id-block our-work-front fw-body view-dom-id-765046852cb6abfa0b65a400ddc46bab">
             <div class="view-header">
       <div class="our-work-front-title">
-  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive text-center">Our Work</h2>
+  <h2 class="sub-page-title nix-top-bottom-margins h2-responsive text-center"><?php echo of_get_option( 'example_text_mini3', 'no entry' ); ?></h2>
   <a href="work.html" class="btn-next btn btn-primary hidden-xs-pt" title="Our Work">View All</a>
 </div>    </div>
   
@@ -258,7 +258,7 @@
   <div class="row">
         <div class="co-content-main col-xs-12">
         <div class="co-content-wrap first last">
-  <h4 class="text-accent text-accent-lines">Yunqiit Networks located in Changzhou, Jiangsu is focused on improving the Internet for users of IT solutions company, friendly and cooperative web design and development and long-term maintenance. We advocate piety and service flexibility, in order to achieve long-term assistance with our customers, we can create amazing new site system support and micro-channel-side development.</h4>
+  <h4 class="text-accent text-accent-lines"><?php echo of_get_option( 'example_textarea3', 'no entry' ); ?></h4>
   </div>
     </div>
       </div>
