@@ -4,7 +4,11 @@
  *
  * @package WordPress
  * @subpackage Twenty_Fifteen
+<<<<<<< HEAD
  * @用户控制显示但也post文章信息
+=======
+ * @since Twenty Fifteen 1.0
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
  */
 
 get_header(); ?>
@@ -12,7 +16,11 @@ get_header(); ?>
 <div class="co-head co-head-bg-none container-fluid">
   <header class="co-head-content">
     <div class="inner">
+<<<<<<< HEAD
         <h1 class="nix-top-bottom-margins h2-responsive" style="text-align: center;"><?php the_title(); ?></h1>
+=======
+        <h1 class="nix-top-bottom-margins h2-responsive" style="text-align: center;">UPDATES</h1>
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
     </div>
   </header>
 </div>

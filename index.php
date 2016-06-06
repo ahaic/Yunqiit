@@ -24,10 +24,16 @@
   <h2 class="sub-page-title nix-top-bottom-margins h2-responsive"> <?php echo of_get_option( 'example_text_mini', 'no entry' ); ?></h2>
   <div class="row fw-body">
     <div class="col-xs-6 col-sm-3">
+<<<<<<< HEAD
       <a class="coplex-services-link" href="<?php echo get_permalink(58);//获取指定 ID 的文章或页面链接 ?>" title="Product UX &amp; Design">
         <?xml version="1.0"?>
 		  
 		  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="112.4" height="103" viewBox="-143 149 112.4 103" enable-background="new -143 149 112.4 103" xml:space="preserve">
+=======
+      <a class="coplex-services-link" href="services/product-design.html" title="Product UX &amp; Design">
+        <?xml version="1.0"?>
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="112.4" height="103" viewBox="-143 149 112.4 103" enable-background="new -143 149 112.4 103" xml:space="preserve">
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
   <path fill="#ffffff" d="M-86.8 249.8c-24.9 0-45.2-20.3-45.2-45.2h2.7c0 23.4 19.1 42.5 42.5 42.5s42.5-19.1 42.5-42.5h2.7C-41.5 229.5-61.8 249.8-86.8 249.8z"/>
   <rect x="-134" y="201.3" fill="#ffffff" width="6.6" height="6.6"/>
   <path fill="#ffffff" d="M-127.1 208.1h-7.1V201h7.1V208.1zM-133.7 207.6h6v-6h-6V207.6z"/>
@@ -54,12 +60,20 @@
   <path fill="#ffffff" d="M-97 149v40.7l10 30 10-30V149H-97zM-79.7 151.7v5.9h-14.6v-5.9H-79.7zM-88.9 205.4l-4.9-14.6h13.5l-4.9 14.6H-88.9zM-94.3 188.1v-27.7h5.9v27.8L-94.3 188.1 -94.3 188.1zM-85.6 188.1v-27.7h5.9v27.8L-85.6 188.1 -85.6 188.1z"/>
 </svg>
 
+<<<<<<< HEAD
         <h4 class="h4-responsive nix-bottom-margin"><?php $title = get_post(58)->post_title; echo $title;//输出文章的标题
 ?></h4>
       </a>
     </div>
     <div class="col-xs-6 col-sm-3">
       <a class="coplex-services-link" href="<?php echo get_permalink(40);//获取指定 ID 的文章或页面链接 ?>" title="Development">
+=======
+        <h4 class="h4-responsive nix-bottom-margin">Product Design</h4>
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-3">
+      <a class="coplex-services-link" href="services/development.html" title="Development">
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
         <?xml version="1.0"?>
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="71" height="103" viewBox="-164 143 71 103" enable-background="new -164 143 71 103" xml:space="preserve">
   <path fill="#ffffff" d="M-128.5 230c11.5 0 19.5-8 19.5-19.5v-22.7h-2.6v22.7c0 9.3-7.6 16.9-16.9 16.9s-16.9-7.6-16.9-16.9v-22.7h-2.6v22.7C-148 222-140 230-128.5 230z"/>
@@ -84,13 +98,21 @@
   <polygon fill="#ffffff" points="-134.8 172.6 -126.9 172.6 -129.5 181.8 -121 170.4 -128.2 169.9 -126.2 161 "/>
 </svg>
 
+<<<<<<< HEAD
         <h4 class="h4-responsive nix-bottom-margin"><?php $title = get_post(40)->post_title; echo $title;//输出文章的标题
 ?></h4>
+=======
+        <h4 class="h4-responsive nix-bottom-margin">Development</h4>
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
       </a>
     </div>
     <div class="hidden-sm hidden-md hidden-lg clearfix"></div>
     <div class="col-xs-6 col-sm-3">
+<<<<<<< HEAD
       <a class="coplex-services-link" href="<?php echo get_permalink(43);//获取指定 ID 的文章或页面链接 ?>" title="Online Marketing Services">
+=======
+      <a class="coplex-services-link" href="services/online-marketing.html" title="Online Marketing Services">
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
         <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="71" height="103" viewBox="-164 143 71 103" enable-background="new -164 143 71 103" xml:space="preserve">
   <path fill="#ffffff" d="M-128.5 230c11.5 0 19.5-8 19.5-19.5v-22.7h-2.6v22.7c0 9.3-7.6 16.9-16.9 16.9s-16.9-7.6-16.9-16.9v-22.7h-2.6v22.7C-148 222-140 230-128.5 230z"/>
@@ -115,12 +137,20 @@
   <polygon fill="#ffffff" points="-134.8 172.6 -126.9 172.6 -129.5 181.8 -121 170.4 -128.2 169.9 -126.2 161 "/>
 </svg>
 
+<<<<<<< HEAD
         <h4 class="h4-responsive nix-bottom-margin"><?php $title = get_post(43)->post_title; echo $title;//输出文章的标题
 ?></h4>
       </a>
     </div>
     <div class="col-xs-6 col-sm-3">
       <a class="coplex-services-link" href="<?php echo get_permalink(49);//获取指定 ID 的文章或页面链接 ?>" title="Web &amp; Mobile Maintenance">
+=======
+        <h4 class="h4-responsive nix-bottom-margin">Online Marketing</h4>
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-3">
+      <a class="coplex-services-link" href="services/maintenance.html" title="Web &amp; Mobile Maintenance">
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
         <?xml version="1.0"?>
           <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="79" height="103" viewBox="-160 137 79 103" enable-background="new -160 137 79 103" xml:space="preserve">
 											<circle fill="#ffffff" cx="-148.3" cy="172.2" r="2.6"/>
@@ -130,8 +160,12 @@
 											<path fill="#ffffff" d="M-156.2 240h71.3c2.1 0 3.8-1.7 3.8-3.8v-71.3c0-2.1-1.7-3.8-3.8-3.8h-71.3c-2.1 0-3.8 1.7-3.8 3.8v71.3C-160 238.3-158.3 240-156.2 240zM-84.8 236.6h-71.3c-0.2 0-0.4-0.2-0.4-0.4v-52.8h72.1v52.8C-84.4 236.4-84.6 236.6-84.8 236.6zM-156.2 164.4h71.3c0.2 0 0.4 0.2 0.4 0.4v15.1h-72.1v-15.1C-156.6 164.6-156.4 164.4-156.2 164.4z"/>
 											</svg>
 
+<<<<<<< HEAD
         <h4 class="h4-responsive nix-bottom-margin"><?php $title = get_post(49)->post_title; echo $title;//输出文章的标题
 ?></h4>
+=======
+        <h4 class="h4-responsive nix-bottom-margin">Maintenance</h4>
+>>>>>>> 50c96aaf4076fc52fcc91183a2bf81d0ef600329
       </a>
     </div>
   </div>
